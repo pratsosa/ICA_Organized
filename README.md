@@ -2,8 +2,8 @@
 All up-to-date scripts, notebooks, tables, and data needed to recreate ICA and CIV plots. Additionally, these can be used to recreate reconstructions and morphed spectra.  
 
 ## Packages used
-Numpy
-Matplotlib
-Astropy
-Pandas
-lmfit
+Numpy  
+Matplotlib  
+Astropy  
+Pandas  
+lmfit  
