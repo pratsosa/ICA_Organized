@@ -21,6 +21,7 @@ Matplotlib
 Astropy  
 Pandas  
 lmfit  
+weightedstats
 
 ## Contributors
 
